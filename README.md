@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 # tyre_health_iot
+=======
+>>>>>>> 36e892f43feb37cfb3ebafce24862edccbc9f16e
 # 🚗 Tyre Shield – CV-based Tyre Health Monitoring
 
 Tyre Shield is a **Computer Vision (CV) + Streamlit** project that helps monitor the health of vehicle tyres using a camera feed.  
